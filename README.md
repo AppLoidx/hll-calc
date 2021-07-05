@@ -3,9 +3,12 @@
 ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)
 
+
 ![](https://i.imgur.com/IyOzgnk.jpeg)
 
 **Based on the project by [@pastuh](https://github.com/pastuh): [hllminicalculator](https://pastuh.github.io/hllminicalculator/)**
+
+[**Try out**](https://apploidx.github.io/hll-calc/)
 
 ## Linear Regression
 
